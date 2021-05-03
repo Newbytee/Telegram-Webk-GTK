@@ -1,0 +1,27 @@
+[package]
+name = "telegramwebk"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies.gtk]
+version = "0.9"
+features = ["v3_24"]
+
+[dependencies.gdk]
+version = "0.13"
+features = ["v3_24"]
+
+[dependencies.gio]
+version = "0.9"
+features = ["v2_60"]
+
+[dependencies.glib]
+version = "0.10"
+features = ["v2_60"]
+
+[dependencies.gettext-rs]
+version = "0.7"
+features = ["gettext-system"]
+
+[dependencies.webkit2gtk]
+version = "0.11"

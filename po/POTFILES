@@ -1,0 +1,4 @@
+data/org.gitlab.newbyte.TelegramWebk.desktop.in
+data/org.gitlab.newbyte.TelegramWebk.appdata.xml.in
+data/org.gitlab.newbyte.TelegramWebk.gschema.xml
+src/window.ui
