@@ -1,4 +1,4 @@
-application_id = 'org.gitlab.newbyte.TelegramWebk'
+application_id = 'com.gitlab.newbyte.TelegramWebk'
 
 scalable_dir = join_paths('hicolor', 'scalable', 'apps')
 install_data(
